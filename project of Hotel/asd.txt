@@ -1,0 +1,10 @@
+#floor: 3
+floor# 1 #Rooms: 3
+standard, 201,3,55
+standard, 211,1,50
+sweet, 200,55
+floor# 2 #Rooms: 2
+standard, 101,3,55
+conference, 120,20,10
+floor# 3 #Rooms: 1
+sweet, 200,55
